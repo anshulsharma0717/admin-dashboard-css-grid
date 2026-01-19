@@ -1,5 +1,5 @@
 Assignment Submission
- 1. Personal Information
+  Personal Information
 - Name: Anshul Sharma  
 - UID:24BDA70368 
 - Group:24BDS-5(B)
